@@ -37,5 +37,8 @@
 
 
             
-  <div align="center" ><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p></div>
+  <div align="center" ><a href="https://www.linkedin.com/in/alessandro-macedo-b915a31b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   ![Snake animation](https://github.com//Ale-Macedo/blob/output/github-contribution-grid-snake.svg)
+</div></div>
   </div>
