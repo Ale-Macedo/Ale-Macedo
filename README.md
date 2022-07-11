@@ -2,8 +2,8 @@
 
 > I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
 
-* 📚 I'm currently studying NodeJS, JavaScript.
-* 🚀 My next steps is: TypeScript, NoSQL, React.
+* 📚 I'm currently studying ReactJS, JavaScript.
+* 🚀 My next steps is: JavaScript, Html, CSS.
 <br><br>
 
 <div id="all" >
@@ -19,13 +19,15 @@
   <img align="center" alt="Ale-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-HTML" title="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" title="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ale-Python" title="Python"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><br>
+    <img align="center" alt="Ale-react" title="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br><br>
+
+
   
  
  
   <div class="desempenho" style="display: inline;">
   <a href="https://github.com/Ale-Macedo" >
-    <div style="display: inline;" ><img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=Ale-Macedo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/></div>
+    <div style="display: inline;" ><img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=Ale-Macedo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/></div><br><br>
     <div style="display: inline;" ><img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Macedo&layout=compact&langs_count=16&theme=dracula"/></div>
 </div><br>
   
