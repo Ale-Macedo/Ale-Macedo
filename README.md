@@ -3,7 +3,7 @@
 > I'm passionate about technology, I love learning about new technologies and I'm always looking for new challenges looking for the best solution to the problem.
 
 * 📚 I'm currently studying ReactJS, JavaScript.
-* 🚀 My next steps is: JavaScript, Html, CSS.
+* 🚀 My next steps is: ReactNative, NodeJS.
 <br><br>
 
 <div id="all" >
