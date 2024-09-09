@@ -7,7 +7,6 @@ Sou um desenvolvedor web apaixonado, especializado em **JavaScript**, **Node.js*
 - 🌱 Atualmente estou aprendendo: Node.js avançado e TypeScript.
 - 👯 Estou procurando colaborar em: Projetos open-source, aplicações web, ou qualquer coisa que envolva frameworks JavaScript!
 - 💬 Pergunte-me sobre: **JavaScript**, **React**, **Node.js** ou qualquer coisa relacionada a desenvolvimento web.
-- 🎵 Além da programação, também sou apaixonado por música, especialmente Rap, Trap e acústico.
   
 ## 🔧 Tecnologias e Ferramentas
 
